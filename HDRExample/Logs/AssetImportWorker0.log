@@ -1,0 +1,1371 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.804; Version 2004; 64bit' Language: 'en' Physical Memory: 16334 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/rober/OneDrive/Documents/GitHub/TestingAgame/HDRExample
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49863
+Successfully changed project path to: C:/Users/rober/OneDrive/Documents/GitHub/TestingAgame/HDRExample
+C:/Users/rober/OneDrive/Documents/GitHub/TestingAgame/HDRExample
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 58.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rober/OneDrive/Documents/GitHub/TestingAgame/HDRExample/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.1034.6
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001196 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.766 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.010 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 210.3 MB.
+System memory in use after: 208.0 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3964.
+Total: 3.880800 ms (FindLiveObjects: 0.355500 ms CreateObjectMapping: 0.088200 ms MarkObjects: 2.026500 ms  DeleteObjects: 1.409500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MicroSplat/Core/Examples/Textures/rock_cliff_norm.tga
+  artifactKey: Guid(0d626c878590d42eca75516512f93565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/rock_cliff_norm.tga using Guid(0d626c878590d42eca75516512f93565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063c4d67732ac45da44cd6da18986dbd') in 0.094857 seconds
+  Import took 0.099779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/cliff_height.png
+  artifactKey: Guid(369894f65d5984c138a718772bb1c747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/cliff_height.png using Guid(369894f65d5984c138a718772bb1c747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6861e73a568c474a435d82470d9519') in 0.051825 seconds
+  Import took 0.056112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/rock_cliff_albedo.png
+  artifactKey: Guid(a4a9376fca9114840bb973b6693e7ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/rock_cliff_albedo.png using Guid(a4a9376fca9114840bb973b6693e7ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe7fca649c8958a37ea6031b6802481') in 0.019876 seconds
+  Import took 0.024317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/MicroSplat/Core
+  artifactKey: Guid(3247ef453685e4a4090e006477df3816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core using Guid(3247ef453685e4a4090e006477df3816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68731c037c42dccc71373ce4a02f4879') in 0.005564 seconds
+  Import took 0.010398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/moss_albedo.png
+  artifactKey: Guid(66fb879d08c8d4a8d9217a396637cd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/moss_albedo.png using Guid(66fb879d08c8d4a8d9217a396637cd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f68db7d8f535aef2e3b92ac154677f2') in 0.016789 seconds
+  Import took 0.022188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/cliff_norm.png
+  artifactKey: Guid(0d8f0ee1a15194978ab3e6702762460f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/cliff_norm.png using Guid(0d8f0ee1a15194978ab3e6702762460f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a6663cd02c86e1bd584c4fd9b07b0a') in 0.019890 seconds
+  Import took 0.025228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/cliff_smoothness.png
+  artifactKey: Guid(6e74c61dcec3a4dd5ba7d5e40b4ae422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/cliff_smoothness.png using Guid(6e74c61dcec3a4dd5ba7d5e40b4ae422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7439469ef512466a78e2eaca1aede72') in 0.020627 seconds
+  Import took 0.025602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/shore_sand_smoothness.png
+  artifactKey: Guid(4a3982fcc24514da1b539cfb39014206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/shore_sand_smoothness.png using Guid(4a3982fcc24514da1b539cfb39014206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c66ef6db7d473cad8b3bdc83566a3b') in 0.018894 seconds
+  Import took 0.024094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/moss_smoothness.png
+  artifactKey: Guid(5b0e4204820504dc0a10a227b8b6c18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/moss_smoothness.png using Guid(5b0e4204820504dc0a10a227b8b6c18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0329e9128633e1fb7dc1f9f324937c9e') in 0.019755 seconds
+  Import took 0.024227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures
+  artifactKey: Guid(0a324b88ac6fa477393e720a8f0f0822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures using Guid(0a324b88ac6fa477393e720a8f0f0822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d965c873a631c195868824a4dc1d67') in 0.005757 seconds
+  Import took 0.010848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/cliff_albedo.png
+  artifactKey: Guid(b2e5c511fff7f41559554175e2005252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/cliff_albedo.png using Guid(b2e5c511fff7f41559554175e2005252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38abedf91d58c0ea3af6089f9087813') in 0.018803 seconds
+  Import took 0.024299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/rock_cliff_smoothness.png
+  artifactKey: Guid(ccdddcfa22e924bb5bde6a40b8ef78df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/rock_cliff_smoothness.png using Guid(ccdddcfa22e924bb5bde6a40b8ef78df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d146b8f980d6f3ef5995d0d98cad7f') in 0.018576 seconds
+  Import took 0.023063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/cliff_ao.png
+  artifactKey: Guid(f331a9e993c1b48ad9e9f64f4f9013ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/cliff_ao.png using Guid(f331a9e993c1b48ad9e9f64f4f9013ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ef2056bf5cbd464b9ced792f71a6fe') in 0.018254 seconds
+  Import took 0.022577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/moss_ao.png
+  artifactKey: Guid(d85f6f03bea454b92b46e99f7bec74b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/moss_ao.png using Guid(d85f6f03bea454b92b46e99f7bec74b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f0e35891ef9034fead976d73148961') in 0.020052 seconds
+  Import took 0.024680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/shore_sand_albedo.png
+  artifactKey: Guid(1d6b5702e2d7947a6aca898081729d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/shore_sand_albedo.png using Guid(1d6b5702e2d7947a6aca898081729d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585c8e01ef979abb5603db09ac180a2f') in 0.019870 seconds
+  Import took 0.024713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/shore_sand_norm.png
+  artifactKey: Guid(294f7637e9ef54b21a1b1ea883dfea32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/shore_sand_norm.png using Guid(294f7637e9ef54b21a1b1ea883dfea32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16205255be4b291a69da0d8f314fcaf') in 0.018223 seconds
+  Import took 0.023616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/MicroSplat/Core/Examples
+  artifactKey: Guid(2b5cbac87c7cd421e8d1d629ab935fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples using Guid(2b5cbac87c7cd421e8d1d629ab935fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c190c8942628de2c9cdf8bafd547770b') in 0.005036 seconds
+  Import took 0.009432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/rock_cliff_ao.png
+  artifactKey: Guid(d171d477d7bec40a68abb6b20cde67ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/rock_cliff_ao.png using Guid(d171d477d7bec40a68abb6b20cde67ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35da8a1842c247ee4413ab48ad753294') in 0.015851 seconds
+  Import took 0.020401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/moss_height.png
+  artifactKey: Guid(789a0a85e9c004607b33057be6bc8414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/moss_height.png using Guid(789a0a85e9c004607b33057be6bc8414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d1e409dca71e59aefac99af9f4dfbb') in 0.019861 seconds
+  Import took 0.024356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/shore_sand_height.png
+  artifactKey: Guid(a4803915ed20f45f5a61eac0bbe3e477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/shore_sand_height.png using Guid(a4803915ed20f45f5a61eac0bbe3e477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee34c7ef7cc643dcceecb3497731270') in 0.018849 seconds
+  Import took 0.023415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/rock_cliff_height.png
+  artifactKey: Guid(1a8d14e5cac49403e9e88b64d384e29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/rock_cliff_height.png using Guid(1a8d14e5cac49403e9e88b64d384e29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b882032f9d0dde6f7c174076fe960a7') in 0.015153 seconds
+  Import took 0.019895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/shore_sand_ao.png
+  artifactKey: Guid(f32b234bd5bb84e928d73cbcc11df72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/shore_sand_ao.png using Guid(f32b234bd5bb84e928d73cbcc11df72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122f887caaf543bdf033f495efc7ecee') in 0.016124 seconds
+  Import took 0.020360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/MicroSplat/Core/Examples/Textures/moss_norm.tga
+  artifactKey: Guid(440362e15edd043ebad4321a5118e235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Textures/moss_norm.tga using Guid(440362e15edd043ebad4321a5118e235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c454a78dd299a95b125a7610cc07f9') in 0.015270 seconds
+  Import took 0.020434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.304449 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene
+  artifactKey: Guid(ee587bf128a4b4a639422f96bb3fe9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene using Guid(ee587bf128a4b4a639422f96bb3fe9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1ec80df9d10b7d44b650626a0a2d6c') in 0.005720 seconds
+  Import took 0.010805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065364 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/08-08_Sunset_C.mat
+  artifactKey: Guid(80459acd3edb74c30b7ddbe47a27c412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/08-08_Sunset_C.mat using Guid(80459acd3edb74c30b7ddbe47a27c412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56971d01f4fb08f48c4b5a4797684d5e') in 0.454371 seconds
+  Import took 0.462375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/Cloudy Sky.exr
+  artifactKey: Guid(00b9389094b894da58219438ada30b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/Cloudy Sky.exr using Guid(00b9389094b894da58219438ada30b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad387be9c1f9fc17b2d4a9a17d2da8c') in 0.046572 seconds
+  Import took 0.052285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.561786 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData
+  artifactKey: Guid(425081a7b83f04de79de13de6232226e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData using Guid(425081a7b83f04de79de13de6232226e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae17f1009562b0012b4baf5b2a644a7') in 0.005635 seconds
+  Import took 0.010595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059135 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat.mat
+  artifactKey: Guid(25d3e5f4416d246cd98642c94a1f1e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat.mat using Guid(25d3e5f4416d246cd98642c94a1f1e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78ddd673268c4ce46dc06d1af7e9be2') in 0.288390 seconds
+  Import took 0.294140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_rock_cliff_albedo_2.terrainlayer
+  artifactKey: Guid(84a907e30c9a844bc99356a8500ba8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_rock_cliff_albedo_2.terrainlayer using Guid(84a907e30c9a844bc99356a8500ba8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5becebd2fbaf964f95b8fd54601fbce') in 0.024850 seconds
+  Import took 0.029978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat_keywords.asset
+  artifactKey: Guid(ec4e44d09d1e34bda805d8f15751504c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat_keywords.asset using Guid(ec4e44d09d1e34bda805d8f15751504c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a0ea7906e4314e1e8a311745095aed') in 0.007211 seconds
+  Import took 0.011695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplatConfig_diff_tarray.asset
+  artifactKey: Guid(6966c6a2271704eeaa4697428c97b571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplatConfig_diff_tarray.asset using Guid(6966c6a2271704eeaa4697428c97b571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ed8e1bc943a3f3aa8bb34da1781f76') in 0.097695 seconds
+  Import took 0.102539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplatConfig.asset
+  artifactKey: Guid(a708a7a73fb534bf0ac7cc83a706c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplatConfig.asset using Guid(a708a7a73fb534bf0ac7cc83a706c5b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad7e7264eee5b2aee7695cbd02a55d9') in 0.136600 seconds
+  Import took 0.144903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat_proceduraltexture.asset
+  artifactKey: Guid(6e6d1f99942574fedb58070f7791d891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat_proceduraltexture.asset using Guid(6e6d1f99942574fedb58070f7791d891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1daf864cead0493bd5719a372c7726f') in 0.006509 seconds
+  Import took 0.011729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplatConfig_normSAO_tarray.asset
+  artifactKey: Guid(ca49526f427194c41b515c21c5dbe465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplatConfig_normSAO_tarray.asset using Guid(ca49526f427194c41b515c21c5dbe465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b2c28381030dc421a747c5aff9bbd4') in 0.090458 seconds
+  Import took 0.095203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat_propdata.asset
+  artifactKey: Guid(33be7e4182d1f404fb55319a0218209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/MicroSplat_propdata.asset using Guid(33be7e4182d1f404fb55319a0218209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c19435b43d3859883b3359a2a3c8bf') in 0.015923 seconds
+  Import took 0.020676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_cliff_albedo_3.terrainlayer
+  artifactKey: Guid(1a7d200b262d144d39064958a60ee57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_cliff_albedo_3.terrainlayer using Guid(1a7d200b262d144d39064958a60ee57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5efae5cec02df5aa32f0c63e4a0ef4') in 0.021215 seconds
+  Import took 0.025869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_shore_sand_albedo_0.terrainlayer
+  artifactKey: Guid(70da6022e6c6b4272859c69d93deddf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_shore_sand_albedo_0.terrainlayer using Guid(70da6022e6c6b4272859c69d93deddf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bd82501229dda49f5896ca3b9c8a7a') in 0.022930 seconds
+  Import took 0.027737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_moss_albedo_1.terrainlayer
+  artifactKey: Guid(c3bac167ca01d4f22a16c823a8d521bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Examples/Scene/MicroSplatData/microsplat_layer_moss_albedo_1.terrainlayer using Guid(c3bac167ca01d4f22a16c823a8d521bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2674df40e7e3745115aa37b0d243ea') in 0.022776 seconds
+  Import took 0.028000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.808515 seconds.
+  path: Assets/Art/Textures/General/Materials/Bush_01_BC.mat
+  artifactKey: Guid(463befa8bb1bc5e469f88d8d6a6143b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Textures/General/Materials/Bush_01_BC.mat using Guid(463befa8bb1bc5e469f88d8d6a6143b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8bfd3d80dc495b7d5495a94c7dc9189') in 0.034923 seconds
+  Import took 0.040494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Art/Meshes/Props/Furniture/Models/GlassCase_01.fbx
+  artifactKey: Guid(5ee624ffeecf1324aba047bca3298fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Furniture/Models/GlassCase_01.fbx using Guid(5ee624ffeecf1324aba047bca3298fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601e4fba225886d0214d68d95c92d96d') in 0.135642 seconds
+  Import took 0.141101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.736872 seconds.
+  path: Assets/Art/Meshes/Structure/Model/FR_Platform_01.fbx
+  artifactKey: Guid(e89a4afe12d9bea49a7ee33cc1b98ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Structure/Model/FR_Platform_01.fbx using Guid(e89a4afe12d9bea49a7ee33cc1b98ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413ff14d70e8236f0b515981f1539afc') in 0.051956 seconds
+  Import took 0.058173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003019 seconds.
+  path: Assets/Art/Meshes/Structure/Model/FR_Platform_01.fbx
+  artifactKey: Guid(e89a4afe12d9bea49a7ee33cc1b98ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Structure/Model/FR_Platform_01.fbx using Guid(e89a4afe12d9bea49a7ee33cc1b98ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413ff14d70e8236f0b515981f1539afc') in 0.047427 seconds
+  Import took 0.052757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.499884 seconds.
+  path: Assets/MicroSplat/Core/Documentation
+  artifactKey: Guid(c19c22bd03cd44a18849e52e7a5de42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation using Guid(c19c22bd03cd44a18849e52e7a5de42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d60a1123220b99fce6382188f1f6289') in 0.005825 seconds
+  Import took 0.011454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.582468 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Alpha Hole.pdf
+  artifactKey: Guid(e9dae88a2acf44788869f2929c174a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Alpha Hole.pdf using Guid(e9dae88a2acf44788869f2929c174a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8340726c3a9e0402176094bc89bfc792') in 0.008093 seconds
+  Import took 0.018293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.982308 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Anti-Tile Module.pdf
+  artifactKey: Guid(8a223855a8957405c9d00fbb13f98ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Anti-Tile Module.pdf using Guid(8a223855a8957405c9d00fbb13f98ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f830d7d2e44832e94d6514a5d4bdaa9b') in 0.005816 seconds
+  Import took 0.011277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.168164 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Decals.pdf
+  artifactKey: Guid(ff70123cee92e4be4a0424a762520668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Decals.pdf using Guid(ff70123cee92e4be4a0424a762520668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe74cdf87225917da41b88f8efdc02d0') in 0.005839 seconds
+  Import took 0.011097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.578554 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Digger Integration.pdf
+  artifactKey: Guid(4f3ed690814094d749f9edf2a328b9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Digger Integration.pdf using Guid(4f3ed690814094d749f9edf2a328b9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e94d573f35b9726de41589d425bc87b9') in 0.005748 seconds
+  Import took 0.011113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.484614 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Global Texturing.pdf
+  artifactKey: Guid(314b97a448bc64df18550ed0e03107ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Global Texturing.pdf using Guid(314b97a448bc64df18550ed0e03107ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67b075f7d63751d69d1f3d6cc91d6ea') in 0.006274 seconds
+  Import took 0.011421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.468968 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - HDRP.pdf
+  artifactKey: Guid(5a2d7a177b3114d81934c53e205f6082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - HDRP.pdf using Guid(5a2d7a177b3114d81934c53e205f6082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a18571e8221f282a7ffb9b890d8f3e') in 0.005795 seconds
+  Import took 0.010747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.205855 seconds.
+  path: Assets/MicroSplat/Core/Textures
+  artifactKey: Guid(f861e334666f34b70b8f633318bd21bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Textures using Guid(f861e334666f34b70b8f633318bd21bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ba38c39f8803af923decc3ec74eec0') in 0.002105 seconds
+  Import took 0.007143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068303 seconds.
+  path: Assets/MicroSplat/Core/Textures/microsplat_def_perlin4.tga
+  artifactKey: Guid(fb84fc5f3e7e14ae7be5bd45efc3d3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Textures/microsplat_def_perlin4.tga using Guid(fb84fc5f3e7e14ae7be5bd45efc3d3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ba1ddff328089e684f1b1e2ad83fdf') in 0.013349 seconds
+  Import took 0.018655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.218145 seconds.
+  path: Assets/MicroSplat/Core/Scripts
+  artifactKey: Guid(44625c5af2e294ee1b8b489b834832e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts using Guid(44625c5af2e294ee1b8b489b834832e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f69f6d2b8e32ca9e8d527340a6b222') in 0.005818 seconds
+  Import took 0.011000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.785513 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatTerrain.cs
+  artifactKey: Guid(6525fd4a9fb974b7f878dee70144de99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatTerrain.cs using Guid(6525fd4a9fb974b7f878dee70144de99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e381cc1a972a700125ab5ff75251eff8') in 0.011715 seconds
+  Import took 0.017123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.849811 seconds.
+  path: Assets/MicroSplat/Core/Scripts/GlitterLight.cs
+  artifactKey: Guid(616b7168847aa4507979075cb7bbdc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/GlitterLight.cs using Guid(616b7168847aa4507979075cb7bbdc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae539dd9e42a891d31459e6b09c7069') in 0.005796 seconds
+  Import took 0.011274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/MicroSplat/Core/Scripts/GlitterLight.cs
+  artifactKey: Guid(616b7168847aa4507979075cb7bbdc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/GlitterLight.cs using Guid(616b7168847aa4507979075cb7bbdc72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae539dd9e42a891d31459e6b09c7069') in 0.002162 seconds
+  Import took 0.006713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.331257 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Low Poly.pdf
+  artifactKey: Guid(a413fc99ca93c4e7fa357740384aa310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Low Poly.pdf using Guid(a413fc99ca93c4e7fa357740384aa310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497401fa7531cfb380a7e4e1caad6dc6') in 0.006061 seconds
+  Import took 0.011950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.516473 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Mesh Terrains.pdf
+  artifactKey: Guid(2b6fcf24c3b87457dbb8c5390a91c553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Mesh Terrains.pdf using Guid(2b6fcf24c3b87457dbb8c5390a91c553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7889e5fb4fa33988bd36cc4eba2d4e1b') in 0.006305 seconds
+  Import took 0.011672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.963640 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Mesh Workflow.pdf
+  artifactKey: Guid(125bc8fa46ba643ef9cc09fa7b995bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Mesh Workflow.pdf using Guid(125bc8fa46ba643ef9cc09fa7b995bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374e34964d75f50fcdf284d1057edcd6') in 0.005904 seconds
+  Import took 0.011364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.852302 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Object Shader.pdf
+  artifactKey: Guid(d0301ff03a7384405b5362a8d4ea35f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Object Shader.pdf using Guid(d0301ff03a7384405b5362a8d4ea35f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5efe86b541a45521e9e1f9d851bbe9d') in 0.006239 seconds
+  Import took 0.011556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.868910 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Optimization Guide.pdf
+  artifactKey: Guid(2a0e7318a294c4f8c9ce1d01fb18d46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Optimization Guide.pdf using Guid(2a0e7318a294c4f8c9ce1d01fb18d46c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d475d312e3fa6d4ef925333388e6364') in 0.006314 seconds
+  Import took 0.012351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.755182 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Polaris Integration.pdf
+  artifactKey: Guid(c20e1c0275994477a9a195b82bf8d7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Polaris Integration.pdf using Guid(c20e1c0275994477a9a195b82bf8d7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ecb6439d7b43411e6a4565745c93d94') in 0.006338 seconds
+  Import took 0.011624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.740387 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Procedural Texturing.pdf
+  artifactKey: Guid(b745153b2aa2743159493079e0235014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Procedural Texturing.pdf using Guid(b745153b2aa2743159493079e0235014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01de969e4690e1b7831d87bbb97992d3') in 0.005935 seconds
+  Import took 0.011242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.028131 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat - Puddles, Streams, Lava, Wetness.pdf
+  artifactKey: Guid(cf31f88af6c184e3b99ba56a8d070d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat - Puddles, Streams, Lava, Wetness.pdf using Guid(cf31f88af6c184e3b99ba56a8d070d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8dc4323897ac473a4c2c6bb5cabebd8') in 0.005897 seconds
+  Import took 0.011483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.788361 seconds.
+  path: Assets/MicroSplat/Core/Documentation/MicroSplat FAQ.pdf
+  artifactKey: Guid(04a501bcacb194abaa9bda155a103068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Documentation/MicroSplat FAQ.pdf using Guid(04a501bcacb194abaa9bda155a103068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9543b3de7008ac3fcb952a2a0c07f66a') in 0.006267 seconds
+  Import took 0.011687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.191530 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatObject.cs
+  artifactKey: Guid(18026738f45cc4efeb4f4f3bfbf57a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatObject.cs using Guid(18026738f45cc4efeb4f4f3bfbf57a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2c7b1da238a3f791c44dfd27a665b6') in 0.006907 seconds
+  Import took 0.012387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004172 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatObject.cs
+  artifactKey: Guid(18026738f45cc4efeb4f4f3bfbf57a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatObject.cs using Guid(18026738f45cc4efeb4f4f3bfbf57a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2c7b1da238a3f791c44dfd27a665b6') in 0.002256 seconds
+  Import took 0.007544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.905582 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatKeywords.cs
+  artifactKey: Guid(007677a8d215f46f78fdc4a57e84fb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatKeywords.cs using Guid(007677a8d215f46f78fdc4a57e84fb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88fda4709e710341f07692295dd3e42e') in 0.005570 seconds
+  Import took 0.010953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatKeywords.cs
+  artifactKey: Guid(007677a8d215f46f78fdc4a57e84fb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatKeywords.cs using Guid(007677a8d215f46f78fdc4a57e84fb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88fda4709e710341f07692295dd3e42e') in 0.002374 seconds
+  Import took 0.006873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.789158 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatPropData.cs
+  artifactKey: Guid(bfa2271e2fc864444b5b57e386e28d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatPropData.cs using Guid(bfa2271e2fc864444b5b57e386e28d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2bffe643a25521aa5f5c0068b1843b') in 0.005623 seconds
+  Import took 0.011203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001593 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatPropData.cs
+  artifactKey: Guid(bfa2271e2fc864444b5b57e386e28d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatPropData.cs using Guid(bfa2271e2fc864444b5b57e386e28d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2bffe643a25521aa5f5c0068b1843b') in 0.002122 seconds
+  Import took 0.007168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.396744 seconds.
+  path: Assets/MicroSplat/Core/Scripts/MicroSplatRuntimeUtil.cs
+  artifactKey: Guid(b6b4d2af126184ea1be67fe7c9936960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/MicroSplatRuntimeUtil.cs using Guid(b6b4d2af126184ea1be67fe7c9936960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb967a3708d8d5e58084979e0047794b') in 0.005593 seconds
+  Import took 0.010898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.766889 seconds.
+  path: Assets/MicroSplat/Core/Scripts/TextureArrayConfig.cs
+  artifactKey: Guid(5760785f8c0064b44b588ae7fd6fd268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/TextureArrayConfig.cs using Guid(5760785f8c0064b44b588ae7fd6fd268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89c87fceb25b677f161afc6b1162999') in 0.005588 seconds
+  Import took 0.010851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002312 seconds.
+  path: Assets/MicroSplat/Core/Scripts/TextureArrayConfig.cs
+  artifactKey: Guid(5760785f8c0064b44b588ae7fd6fd268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/TextureArrayConfig.cs using Guid(5760785f8c0064b44b588ae7fd6fd268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89c87fceb25b677f161afc6b1162999') in 0.002380 seconds
+  Import took 0.006989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.340642 seconds.
+  path: Assets/MicroSplat
+  artifactKey: Guid(7313b5de207b87647af5eaf7cf873a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat using Guid(7313b5de207b87647af5eaf7cf873a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b32cd9695af1a23ebce895736eec7d') in 0.002317 seconds
+  Import took 0.007378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.668044 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor
+  artifactKey: Guid(29c1224aa8a924f37b44a9709fe32970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor using Guid(29c1224aa8a924f37b44a9709fe32970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0c0e310ddbc39c508c7b690bb5fc2d') in 0.005801 seconds
+  Import took 0.011887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.397103 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources
+  artifactKey: Guid(b633d77576ff3411d9e6ababd366ecf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources using Guid(b633d77576ff3411d9e6ababd366ecf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e394fe7b86401990c9dc57cdac6be5') in 0.005866 seconds
+  Import took 0.011116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137426 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_advanceddetails.png
+  artifactKey: Guid(d6ea14ea38e4e5048ba2c270c2eb8a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_advanceddetails.png using Guid(d6ea14ea38e4e5048ba2c270c2eb8a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae16d1a9cc035887bc82e58b0bf843fb') in 0.013700 seconds
+  Import took 0.019091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_digger.png
+  artifactKey: Guid(85afda009a3f84eebb60c0aa0f541774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_digger.png using Guid(85afda009a3f84eebb60c0aa0f541774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a2fb7014e40f936268dfbd480bf9a2') in 0.013706 seconds
+  Import took 0.018759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_srp_lw.png
+  artifactKey: Guid(506cf7a77fef746cd9fbc78178e0dfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_srp_lw.png using Guid(506cf7a77fef746cd9fbc78178e0dfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d5141b5983592750af9816da02557a') in 0.014562 seconds
+  Import took 0.019587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_proctexture.png
+  artifactKey: Guid(fe9ebdd65ed1647e3876b5621bd01502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_proctexture.png using Guid(fe9ebdd65ed1647e3876b5621bd01502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd4887fb5daa654681994dbbe1c5f5d') in 0.013735 seconds
+  Import took 0.018455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_lowpoly.png
+  artifactKey: Guid(f79e57bf3fae64ba6ac6283a88270338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_lowpoly.png using Guid(f79e57bf3fae64ba6ac6283a88270338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c9f0efbfb4064647d86d19aa6031e0') in 0.014443 seconds
+  Import took 0.019324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_textureclusters.png
+  artifactKey: Guid(647188da9275c4a80bf4903187fbd27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_textureclusters.png using Guid(647188da9275c4a80bf4903187fbd27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3222d5f7196089ec14fc9272ac56fa51') in 0.012556 seconds
+  Import took 0.017492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_globaltexture.png
+  artifactKey: Guid(47a57af0e3c1d4eb3bfba354973fca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_globaltexture.png using Guid(47a57af0e3c1d4eb3bfba354973fca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0606bd7f6a2961d8edc09bc211d2591e') in 0.013083 seconds
+  Import took 0.018352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_polaris.png
+  artifactKey: Guid(3b323dfdd8ebb4fe9b6912e1092e304a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_polaris.png using Guid(3b323dfdd8ebb4fe9b6912e1092e304a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f1d8839839c61ec1d0b76c52cd6507') in 0.013142 seconds
+  Import took 0.017688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_streams.png
+  artifactKey: Guid(3cedf8f10173149aea48d9c4976dbc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_streams.png using Guid(3cedf8f10173149aea48d9c4976dbc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2426de482289ca1c8829b675e8f8948') in 0.018645 seconds
+  Import took 0.023209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_terrainblending.png
+  artifactKey: Guid(b30ff4d12785c4253839ef5ffb8a06ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_terrainblending.png using Guid(b30ff4d12785c4253839ef5ffb8a06ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff6f884bc9b3504b22d85f9472c7006e') in 0.020384 seconds
+  Import took 0.025590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_terrainmesh.png
+  artifactKey: Guid(d47048348f05742b08013c8692fba1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_terrainmesh.png using Guid(d47048348f05742b08013c8692fba1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72226692cd555faa58b303f12f328f41') in 0.012776 seconds
+  Import took 0.017973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_urp.png
+  artifactKey: Guid(92a67d17b510c47bdade149ca0ba7f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_urp.png using Guid(92a67d17b510c47bdade149ca0ba7f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f457919a3e4bc91b05d74acd04d2ec') in 0.017573 seconds
+  Import took 0.022281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_triplanaruvs.png
+  artifactKey: Guid(43c2726ec279a46de9ff4c6d307d7ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_triplanaruvs.png using Guid(43c2726ec279a46de9ff4c6d307d7ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2eedc89dada2ef0e594132e71a1cb4d') in 0.015067 seconds
+  Import took 0.020156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_scatter.png
+  artifactKey: Guid(7fc907b860d29462dabab486239b3637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_scatter.png using Guid(7fc907b860d29462dabab486239b3637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccfde725a229f26298937c1ac494e39b') in 0.015391 seconds
+  Import took 0.020302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_alphahole.png
+  artifactKey: Guid(61ae70f216c1440218fd49b6dd02a140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_alphahole.png using Guid(61ae70f216c1440218fd49b6dd02a140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa00b97095a091f8b7f9379b793385e') in 0.013687 seconds
+  Import took 0.019009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_snow.png
+  artifactKey: Guid(e546963b294fe49d7b40996c958a5d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_snow.png using Guid(e546963b294fe49d7b40996c958a5d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba679334898c02e754eaf8ed3c7688a') in 0.017410 seconds
+  Import took 0.022012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_windglitter.png
+  artifactKey: Guid(5d697d9a327ef416f92d7872ba229ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_windglitter.png using Guid(5d697d9a327ef416f92d7872ba229ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95355b41baf2290d8667c52c59f396eb') in 0.013104 seconds
+  Import took 0.018167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_detailresample.png
+  artifactKey: Guid(9b5b051becc4440788862efd8633700a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_detailresample.png using Guid(9b5b051becc4440788862efd8633700a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a5f255a67d5901151deebfa0cc1b423') in 0.014963 seconds
+  Import took 0.019869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_tessellation.png
+  artifactKey: Guid(154b292649ebc4e22a6fbc7472c4f7b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_tessellation.png using Guid(154b292649ebc4e22a6fbc7472c4f7b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b6c21254d12b7ef7b17e4ec1f7659a') in 0.014270 seconds
+  Import took 0.018769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_meshworkflow.png
+  artifactKey: Guid(f34c3f2f1d2c04a6e9dbebf1186803b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_meshworkflow.png using Guid(f34c3f2f1d2c04a6e9dbebf1186803b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c7c607608fd9114c4e40a5209eb0b9') in 0.014490 seconds
+  Import took 0.019468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_trax.png
+  artifactKey: Guid(86bdb868517c84f89a264d272478f9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_trax.png using Guid(86bdb868517c84f89a264d272478f9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbfa3e2865bb5a8efdaeba308150a391') in 0.017675 seconds
+  Import took 0.022846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_hdrp.png
+  artifactKey: Guid(17c7a7b8eccd946febeb432fde69ddbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_hdrp.png using Guid(17c7a7b8eccd946febeb432fde69ddbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b89276aa3ec1704b84bd73f1424e8cb') in 0.015737 seconds
+  Import took 0.020932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_decals.png
+  artifactKey: Guid(bb1ebe6ffdf09474caf1870fa727274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/Resources/microsplat_module_decals.png using Guid(bb1ebe6ffdf09474caf1870fa727274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caeef21edf5d9bbee9b54377d58021ce') in 0.016957 seconds
+  Import took 0.022322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.843828 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/TerrainPainter
+  artifactKey: Guid(18d12ad3094734483a6ae0cd0b5965c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/TerrainPainter using Guid(18d12ad3094734483a6ae0cd0b5965c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab13c9428fa96f66635ab1050b002a51') in 0.006963 seconds
+  Import took 0.012321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.140736 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/TerrainPainter/TerrainPainter_GUI.cs
+  artifactKey: Guid(480d023ca2d4848b484f94d959e523b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/TerrainPainter/TerrainPainter_GUI.cs using Guid(480d023ca2d4848b484f94d959e523b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08ef12dfabf529b8bae7dba710c9b8f') in 0.006133 seconds
+  Import took 0.011620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002466 seconds.
+  path: Assets/MicroSplat/Core/Scripts/Editor/TerrainPainter/TerrainPainter_GUI.cs
+  artifactKey: Guid(480d023ca2d4848b484f94d959e523b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplat/Core/Scripts/Editor/TerrainPainter/TerrainPainter_GUI.cs using Guid(480d023ca2d4848b484f94d959e523b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08ef12dfabf529b8bae7dba710c9b8f') in 0.002608 seconds
+  Import took 0.007623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 227.813253 seconds.
+  path: Assets/MicroSplatData/MicroSplat_keywords.asset
+  artifactKey: Guid(dfad0ad5c72134a41b37cacca615c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat_keywords.asset using Guid(dfad0ad5c72134a41b37cacca615c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e66da3ac1e2bbbed77d97eea687f220') in 0.003078 seconds
+  Import took 0.008831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig_diff_tarray.asset
+  artifactKey: Guid(88d1acad8eda3384d954e0c0483e9bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig_diff_tarray.asset using Guid(88d1acad8eda3384d954e0c0483e9bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4586120efeb2bdc9441922e64cdd67ea') in 0.015647 seconds
+  Import took 0.020127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/MicroSplatData/MicroSplat_propdata.asset
+  artifactKey: Guid(5897ec0d0ffc2f740a0b0d8addff7026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat_propdata.asset using Guid(5897ec0d0ffc2f740a0b0d8addff7026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4471ba431e4363fe6a26d299ad88ede9') in 0.009555 seconds
+  Import took 0.014147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig_normSAO_tarray.asset
+  artifactKey: Guid(16e32dd3a4e694245aa2252af030e36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig_normSAO_tarray.asset using Guid(16e32dd3a4e694245aa2252af030e36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd279763bf9c892e77f5d09ac94f140') in 0.007545 seconds
+  Import took 0.013035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig.asset
+  artifactKey: Guid(b596fc7d3a716314fae28584d0472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig.asset using Guid(b596fc7d3a716314fae28584d0472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d60d066957fe5e26c29eee8316dc417') in 0.007879 seconds
+  Import took 0.012595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig.asset
+  artifactKey: Guid(b596fc7d3a716314fae28584d0472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig.asset using Guid(b596fc7d3a716314fae28584d0472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d60d066957fe5e26c29eee8316dc417') in 0.004742 seconds
+  Import took 0.009541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.164155 seconds.
+  path: Assets/Code
+  artifactKey: Guid(ad6edc516ee3ed84b82416b176deca0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Code using Guid(ad6edc516ee3ed84b82416b176deca0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb581075ff7e971a5be4e9836902a4d5') in 0.006652 seconds
+  Import took 0.012390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.270423 seconds.
+  path: Assets/Art/Materials/General/Rock_A.mat
+  artifactKey: Guid(5d53f2d3d2871cc40bfce7f567098cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Materials/General/Rock_A.mat using Guid(5d53f2d3d2871cc40bfce7f567098cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dcf015fadc37159e5473d7166fcf4c2') in 0.030891 seconds
+  Import took 0.036629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.626522 seconds.
+  path: Assets/MicroSplatData/MicroSplat 1_keywords.asset
+  artifactKey: Guid(666b5e5b0ec3f1145a506230a01c1c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 1_keywords.asset using Guid(666b5e5b0ec3f1145a506230a01c1c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '764b267c1ebc3016028528a34914063a') in 0.006477 seconds
+  Import took 0.011737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 1.asset
+  artifactKey: Guid(397da405e30be1f43a660e7e03656bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 1.asset using Guid(397da405e30be1f43a660e7e03656bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3401585d301afc383c1a263dc8fbc70e') in 0.008586 seconds
+  Import took 0.013830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/MicroSplatData/MicroSplat 1_propdata.asset
+  artifactKey: Guid(e563c68130ca58a45a4f014692d595b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 1_propdata.asset using Guid(e563c68130ca58a45a4f014692d595b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd19a0efcc268a499577eda98342429') in 0.018995 seconds
+  Import took 0.023738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 1_diff_tarray.asset
+  artifactKey: Guid(929f39ef004e55143bde5cf383522ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 1_diff_tarray.asset using Guid(929f39ef004e55143bde5cf383522ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4fef4e269f58963a939fec9406f6d5') in 0.015228 seconds
+  Import took 0.020228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/MicroSplatData/MicroSplat_keywords.asset
+  artifactKey: Guid(dfad0ad5c72134a41b37cacca615c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat_keywords.asset using Guid(dfad0ad5c72134a41b37cacca615c772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105df29b906ddd95b526bab6113d3ce6') in 0.002682 seconds
+  Import took 0.007865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig.asset
+  artifactKey: Guid(b596fc7d3a716314fae28584d0472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig.asset using Guid(b596fc7d3a716314fae28584d0472572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43884a41b8403c1b064ccf8b74826758') in 0.005077 seconds
+  Import took 0.010046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/MicroSplatData/MicroSplat.mat
+  artifactKey: Guid(2e67b7ebf686c4f439b579c61582dd29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat.mat using Guid(2e67b7ebf686c4f439b579c61582dd29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Terrain': fallback shader 'Hidden/Terrain_Base1650103375' not found
+Shader 'Terrain': dependency 'BaseMapShader' shader 'Hidden/Terrain_Base1650103375' not found
+ -> (artifact id: '46aa0608d6dcac55a5b1e8d9c7bd5f7d') in 0.029794 seconds
+  Import took 0.035122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 1_normSAO_tarray.asset
+  artifactKey: Guid(453258e6c9e8ef140aff20c1403c8bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 1_normSAO_tarray.asset using Guid(453258e6c9e8ef140aff20c1403c8bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5eab08d5768565de0c003b35cac150') in 0.014046 seconds
+  Import took 0.019152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/MicroSplatData/MicroSplat.mat
+  artifactKey: Guid(2e67b7ebf686c4f439b579c61582dd29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat.mat using Guid(2e67b7ebf686c4f439b579c61582dd29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Terrain': fallback shader 'Hidden/Terrain_Base1650103375' not found
+Shader 'Terrain': dependency 'BaseMapShader' shader 'Hidden/Terrain_Base1650103375' not found
+ -> (artifact id: '46aa0608d6dcac55a5b1e8d9c7bd5f7d') in 0.021314 seconds
+  Import took 0.026699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 1_normSAO_tarray.asset
+  artifactKey: Guid(453258e6c9e8ef140aff20c1403c8bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 1_normSAO_tarray.asset using Guid(453258e6c9e8ef140aff20c1403c8bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5eab08d5768565de0c003b35cac150') in 0.007275 seconds
+  Import took 0.012122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.523924 seconds.
+  path: Assets/MicroSplatData/microsplat_layer__0.terrainlayer
+  artifactKey: Guid(0f5cf51c411e12643b005b71715d54a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/microsplat_layer__0.terrainlayer using Guid(0f5cf51c411e12643b005b71715d54a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a72c6e84a8591cbfb5d2684c7aa96a') in 0.007481 seconds
+  Import took 0.013159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.216715 seconds.
+  path: Assets/MicroSplatData/MicroSplat 1.mat
+  artifactKey: Guid(0afa1ca5c62df7948858ed2f5d74f2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 1.mat using Guid(0afa1ca5c62df7948858ed2f5d74f2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Terrain': fallback shader 'Hidden/Terrain_Base1650103375' not found
+Shader 'Terrain': dependency 'BaseMapShader' shader 'Hidden/Terrain_Base1650103375' not found
+ -> (artifact id: 'ce5662a64962b57960130a638f87ef97') in 0.029872 seconds
+  Import took 0.035936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 1.asset
+  artifactKey: Guid(397da405e30be1f43a660e7e03656bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 1.asset using Guid(397da405e30be1f43a660e7e03656bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f788cf7f95d12660b73442f0241bd47') in 0.005087 seconds
+  Import took 0.010117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 2.asset
+  artifactKey: Guid(fb824b6f690165444b6ea5c9f5d2a674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 2.asset using Guid(fb824b6f690165444b6ea5c9f5d2a674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f1d8990dd4a42d01bf30a1661cb88b') in 0.008826 seconds
+  Import took 0.013989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/MicroSplatData/MicroSplat 2_keywords.asset
+  artifactKey: Guid(d9bc5fab65ee5a24e8e1df4d025885a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 2_keywords.asset using Guid(d9bc5fab65ee5a24e8e1df4d025885a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1579cadfad3a463a90f20af415436cd1') in 0.006503 seconds
+  Import took 0.011443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 2_diff_tarray.asset
+  artifactKey: Guid(fe9195390c6794e47850570aada61103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 2_diff_tarray.asset using Guid(fe9195390c6794e47850570aada61103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f88ec7fa56b7fec27365cb808d8f483') in 0.018971 seconds
+  Import took 0.024109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 2_normSAO_tarray.asset
+  artifactKey: Guid(debb2338ab6ca21409d35cea3fe3e0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 2_normSAO_tarray.asset using Guid(debb2338ab6ca21409d35cea3fe3e0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef3e435663ace60bf25be6d9c6b45f2') in 0.015232 seconds
+  Import took 0.020018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/MicroSplatData/MicroSplat 2_propdata.asset
+  artifactKey: Guid(51586d92aaf7b724eadfce417f0d5ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 2_propdata.asset using Guid(51586d92aaf7b724eadfce417f0d5ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d59f784b54c76bdb61e4eb1a68ddae3') in 0.013495 seconds
+  Import took 0.018791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/MicroSplatData/MicroSplat 1_keywords.asset
+  artifactKey: Guid(666b5e5b0ec3f1145a506230a01c1c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 1_keywords.asset using Guid(666b5e5b0ec3f1145a506230a01c1c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8fa39cf08fcba35fe729ea52b60d0d8') in 0.002877 seconds
+  Import took 0.007857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.273813 seconds.
+  path: Assets/TutorialInfo/Icons/HDIcon.png
+  artifactKey: Guid(9b84c330de497af4793fd7b376afed13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Icons/HDIcon.png using Guid(9b84c330de497af4793fd7b376afed13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699cb88dcd0e75273bff5d482476c35a') in 0.014900 seconds
+  Import took 0.020341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064361 seconds.
+  path: Assets/TutorialInfo/Icons/Help_Icon.png
+  artifactKey: Guid(9266273b8f123004195741f969177dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Icons/Help_Icon.png using Guid(9266273b8f123004195741f969177dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17bc717a9720cbb1379943ad248945d') in 0.018769 seconds
+  Import took 0.024116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(e79ebf6f6991fea40acf25281ea394e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png using Guid(e79ebf6f6991fea40acf25281ea394e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46b6179589e2b630056cf37a746bd2a') in 0.015035 seconds
+  Import took 0.019977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.499735 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr
+  artifactKey: Guid(4bdbbe899c5dc0e4a89ae2694443559e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr using Guid(4bdbbe899c5dc0e4a89ae2694443559e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364c72a29a47475cc99dc2b20a44d705') in 0.020976 seconds
+  Import took 0.026531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png
+  artifactKey: Guid(c78a7ef4ffd053e45986df6776d18a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png using Guid(c78a7ef4ffd053e45986df6776d18a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3929535663e6de5146570867c18b47a5') in 0.014309 seconds
+  Import took 0.018933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.581351 seconds.
+  path: Assets/MicroSplatData/MicroSplat 2.mat
+  artifactKey: Guid(7b8cb682fd50da64ab615e4e02c1df8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 2.mat using Guid(7b8cb682fd50da64ab615e4e02c1df8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Terrain': fallback shader 'Hidden/Terrain_Base1650103375' not found
+Shader 'Terrain': dependency 'BaseMapShader' shader 'Hidden/Terrain_Base1650103375' not found
+ -> (artifact id: '0489fe9cc1e79199111be2ab4151d472') in 0.025328 seconds
+  Import took 0.031427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 2.asset
+  artifactKey: Guid(fb824b6f690165444b6ea5c9f5d2a674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 2.asset using Guid(fb824b6f690165444b6ea5c9f5d2a674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c07d8e875a52f23c529fddf46ccb221c') in 0.006941 seconds
+  Import took 0.012167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/MicroSplatData/MicroSplat 2_keywords.asset
+  artifactKey: Guid(d9bc5fab65ee5a24e8e1df4d025885a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplat 2_keywords.asset using Guid(d9bc5fab65ee5a24e8e1df4d025885a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02926efb99abc61d6acdadc1015bfd1') in 0.003019 seconds
+  Import took 0.007578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 2_diff_tarray.asset
+  artifactKey: Guid(fe9195390c6794e47850570aada61103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 2_diff_tarray.asset using Guid(fe9195390c6794e47850570aada61103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6da0725c4d2ff0c32f2c890150717d') in 0.012337 seconds
+  Import took 0.017271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/MicroSplatData/MicroSplatConfig 2_normSAO_tarray.asset
+  artifactKey: Guid(debb2338ab6ca21409d35cea3fe3e0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/MicroSplatConfig 2_normSAO_tarray.asset using Guid(debb2338ab6ca21409d35cea3fe3e0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f88571a9b2216430336db0ef64fe8b2') in 0.012790 seconds
+  Import took 0.017494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/MicroSplatData/microsplat_layer_Ground_Albedo_0.terrainlayer
+  artifactKey: Guid(4c212207d3f40424892cee9465f9ff91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MicroSplatData/microsplat_layer_Ground_Albedo_0.terrainlayer using Guid(4c212207d3f40424892cee9465f9ff91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ca7c995168278bc93be35fe7971547') in 0.022083 seconds
+  Import took 0.026602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.773217 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grass 1Grass 1 Nb3407d0e55802f81.terrainlayer
+  artifactKey: Guid(6f6a1f2f6d063024c8aa48ac2f77a7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grass 1Grass 1 Nb3407d0e55802f81.terrainlayer using Guid(6f6a1f2f6d063024c8aa48ac2f77a7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0da5afe28420b60a7b1e6804e493ecc') in 0.007674 seconds
+  Import took 0.012955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.089080 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground 1Ground 1 N2023054508611406.terrainlayer
+  artifactKey: Guid(0101bbb7b2770b74eaad34314ba6136e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground 1Ground 1 N2023054508611406.terrainlayer using Guid(0101bbb7b2770b74eaad34314ba6136e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86819554719e5db47110adc8cda5fc98') in 0.007768 seconds
+  Import took 0.013203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.294138 seconds.
+  path: Assets/Art/Meshes/Props/Ball/Model/Ball.fbx
+  artifactKey: Guid(0a34426304031834ebef443b222bba40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Ball/Model/Ball.fbx using Guid(0a34426304031834ebef443b222bba40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a1612e521e32f3406073be6d9fa30e') in 0.029879 seconds
+  Import took 0.035948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/Meshes/Props/Ball/Prefab/BallWithBase_01.prefab
+  artifactKey: Guid(4f699647e46f5b941b976d9a1beba4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Ball/Prefab/BallWithBase_01.prefab using Guid(4f699647e46f5b941b976d9a1beba4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0649dd8642f04fd4b54889162b2bbcb') in 0.035162 seconds
+  Import took 0.040833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Model/Bamboo_A.fbx
+  artifactKey: Guid(ec20dc31808dcd047a2c16c7bef30b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Model/Bamboo_A.fbx using Guid(ec20dc31808dcd047a2c16c7bef30b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1e98af376051818be7bca36693a774') in 0.062054 seconds
+  Import took 0.067629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Model/Bamboo_C.fbx
+  artifactKey: Guid(d02feacdd25b360458c742d0b723ece0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Model/Bamboo_C.fbx using Guid(d02feacdd25b360458c742d0b723ece0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b347a4c883cb447e278b8b1f9ffba108') in 0.061249 seconds
+  Import took 0.066603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_A.prefab
+  artifactKey: Guid(2d2095b3f1c3f3244bb95037ec5dd6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_A.prefab using Guid(2d2095b3f1c3f3244bb95037ec5dd6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ba909176346e68ddfc1fab342be8c0') in 0.025814 seconds
+  Import took 0.030812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_D.prefab
+  artifactKey: Guid(617b9f0a15eda6b45877b951f35240ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_D.prefab using Guid(617b9f0a15eda6b45877b951f35240ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f5a32f3019f616e0b43de24ebf8397') in 0.029941 seconds
+  Import took 0.035910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Prefab/Bush_01.prefab
+  artifactKey: Guid(55fb4d7d07bc4ed48b7461359c111300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Prefab/Bush_01.prefab using Guid(55fb4d7d07bc4ed48b7461359c111300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a18aa65e8e7dd597ec13fabbe3e0ab') in 0.030400 seconds
+  Import took 0.035673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Model/Bamboo_B.fbx
+  artifactKey: Guid(7bd790bef3ce34c4e9fd850d53deed02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Model/Bamboo_B.fbx using Guid(7bd790bef3ce34c4e9fd850d53deed02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8581734f6b549e5085990f802f370e') in 0.060491 seconds
+  Import took 0.066322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Settings/DiffusionProfiles/BambooLeaves.asset
+  artifactKey: Guid(5a9a2dc462c7bde4f86d0615a19c2c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/DiffusionProfiles/BambooLeaves.asset using Guid(5a9a2dc462c7bde4f86d0615a19c2c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a44cbbbb8ac8e696b272724e198824') in 0.007707 seconds
+  Import took 0.012332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Model/Bamboo_D.fbx
+  artifactKey: Guid(692379ddfbf364b42a862275c05ccc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Model/Bamboo_D.fbx using Guid(692379ddfbf364b42a862275c05ccc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92fbbaea50d7302cac6077b1aad3ee08') in 0.054766 seconds
+  Import took 0.060461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Model/Bush_01.fbx
+  artifactKey: Guid(b75e331c16b1d094692ffdc1afe41612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Model/Bush_01.fbx using Guid(b75e331c16b1d094692ffdc1afe41612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68091c18cf6f7818fa68da627466ec8a') in 0.052611 seconds
+  Import took 0.057767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Art/Meshes/Props/Lights/Model/CeilingLamp_Lamp_01.fbx
+  artifactKey: Guid(7931acb98e4dbae4fb720b7c34166bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Lights/Model/CeilingLamp_Lamp_01.fbx using Guid(7931acb98e4dbae4fb720b7c34166bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05336d4e927c65e76118b2aeefd75c94') in 0.060711 seconds
+  Import took 0.066697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Art/Meshes/Props/Furniture/Prefabs/BarStool_01.prefab
+  artifactKey: Guid(e49f91931294e69448cea719aaa19235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Furniture/Prefabs/BarStool_01.prefab using Guid(e49f91931294e69448cea719aaa19235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac3bb5d3f2741bd43aaa69094807f57') in 0.027585 seconds
+  Import took 0.033179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_C.prefab
+  artifactKey: Guid(7cbe92e839b7b6242ae4d3601855397f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_C.prefab using Guid(7cbe92e839b7b6242ae4d3601855397f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eed270b1842404db29b0add99be538a') in 0.025442 seconds
+  Import took 0.031234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Art/Meshes/Props/Ball/Prefab/BallSmall_01.prefab
+  artifactKey: Guid(cd2b215a20b3dff47abae5d2785aed7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Ball/Prefab/BallSmall_01.prefab using Guid(cd2b215a20b3dff47abae5d2785aed7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956361cd6e0aaba4e48a7b01631d714d') in 0.028538 seconds
+  Import took 0.034654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_B.prefab
+  artifactKey: Guid(fb805a505a23fba478f8ba7a8ec1827d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Nature/Prefab/Bamboo_B.prefab using Guid(fb805a505a23fba478f8ba7a8ec1827d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be6719c249da786e4575b313fe6c73e0') in 0.025222 seconds
+  Import took 0.030436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Meshes/Props/Ball/Model/Base.fbx
+  artifactKey: Guid(916a8fb579c63874394827cbec0773ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Ball/Model/Base.fbx using Guid(916a8fb579c63874394827cbec0773ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53aaf39ede61d506d7bbd4b58c9d38f') in 0.029206 seconds
+  Import took 0.034763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Art/Meshes/Props/Furniture/Models/Barstool_01.fbx
+  artifactKey: Guid(729b08ff66518024f98cf8a1414b0629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Furniture/Models/Barstool_01.fbx using Guid(729b08ff66518024f98cf8a1414b0629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d7413dabe9782a50947fdd548b8266f') in 0.035222 seconds
+  Import took 0.040265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Art/Meshes/Props/Ball/Model/Ball.fbx
+  artifactKey: Guid(0a34426304031834ebef443b222bba40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Meshes/Props/Ball/Model/Ball.fbx using Guid(0a34426304031834ebef443b222bba40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a1612e521e32f3406073be6d9fa30e') in 0.025378 seconds
+  Import took 0.031024 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
